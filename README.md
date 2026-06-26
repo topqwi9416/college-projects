@@ -1,8 +1,7 @@
 # college-projects
 
 
-yougile доска-
-
+yougile доска-https://ru.yougile.com/board/2dy2ci2zszek
 
 резюме- https://drive.google.com/file/d/1itWO5pQq9hC3ecyCQZI0M1w-VoqF-yHO/view?usp=drivesdk
 

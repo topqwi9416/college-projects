@@ -10,7 +10,9 @@ yougile доска-
 
 редизайн evilink-https://topqwi9416.github.io/redesign/
 
-django и ларавел- 
+django-https://github.com/topqwi9416/Django
+
+ларавел- https://github.com/topqwi9416/flower-shop
 
 численные методы- https://colab.research.google.com/drive/17h4_VV5TNn7xPOnRVsWMkiwk8nAHJiGA
 
